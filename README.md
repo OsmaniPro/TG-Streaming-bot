@@ -1,6 +1,6 @@
-# TG Streaming bot
+# TG Simple Streaming bot
 telegram video straming bot
-## 📌 Features
+## 🎚️ Features
 - Play youtube live streams.
 - Radio playing.
 - Play videos from youtube in audio and video formats
@@ -8,7 +8,7 @@ telegram video straming bot
 - Telegram video/audio playing
 - Admin control
 
-## 📌 Deployment
+## ↔️ Deployment
 - Deploy to **Heroku**
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/famouskaykay/djxkaykay)
