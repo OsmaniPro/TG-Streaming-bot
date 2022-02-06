@@ -1,4 +1,4 @@
-# djxkaykay
+# TG Streaming bot
 telegram video straming bot
 ## 📌 Features
 - Play youtube live streams.
